@@ -1,6 +1,6 @@
 [![Header](https://github.com/ProninIgorr/ProninIgorr/blob/main/assets/download.gif)]
 
-About me
+## I'm Junior backend-developer 
 
 Latest YouTube Videos
 
