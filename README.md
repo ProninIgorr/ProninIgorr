@@ -1,6 +1,6 @@
 ![Header](https://github.com/ProninIgorr/ProninIgorr/blob/main/assets/download.gif)
 
-## I'm Junior backend-developer 
+## I'm  backend-developer 
 
 
 ### Languages and Tools
@@ -15,3 +15,5 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/mr_pronin)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/igor.golden.31)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/goldenpronin)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProninIgorr)](https://github.com/anuraghazra/github-readme-stats)
