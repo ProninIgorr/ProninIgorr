@@ -16,4 +16,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=1195F5)](https://www.facebook.com/igor.golden.31)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/goldenpronin)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProninIgorr)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProninIgorr&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProninIgorr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
