@@ -20,7 +20,6 @@
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ProninIgorr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href=#><img src="contributions.svg"></a>
 
 <p align="center"> 
   Visitor count<br>
